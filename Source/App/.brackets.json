@@ -1,6 +1,10 @@
 {
     "jscodehints.detectedExclusions": [
         "C:/Users/santu_pc/App/www/js/controllers.js",
-        "C:/Users/santu_pc/App/www/js/valuescap.js"
+        "C:/Users/santu_pc/App/www/js/valuescap.js",
+        "E:/MS/AdvanceSoftwareEngineering/TutorialApplication/App/www/lib/ionic/js/ionic.min.js",
+        "E:/MS/AdvanceSoftwareEngineering/TutorialApplication/App/gulpfile.js",
+        "E:/MS/AdvanceSoftwareEngineering/TutorialApplication/App/my.conf.js",
+        "E:/MS/AdvanceSoftwareEngineering/TutorialApplication/App/www/lib/ionic/js/ionic.js"
     ]
 }
